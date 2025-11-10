@@ -23,4 +23,4 @@ Active Directory em AWS Managed Microsoft AD.
 ## Como usar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/AWS-ActiveDirectory-Lab.git
+   git clone https://github.com/eduardo-portfolio/AWS-ActiveDirectory-Lab.git
